@@ -1,0 +1,14 @@
+HELP.md
+target/
+/.mvn
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.mvnw
+.mvnw.cmd
+
+### IntelliJ IDEA ###
+.idea
+
+# Compiled class file
+*.class
